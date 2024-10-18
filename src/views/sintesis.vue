@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5(data-aos="fade-right") A_continuación_se_muestra_un_mapa_conceptual
+    p.mb-5(data-aos="fade-right") Un CRM es un conjunto de herramientas vueltas proceso que con una metodología clara ayuda a conocer y predecir el impacto de la empresa en un mercado objetivo trabajando directamente con el cliente potencial y real. En la siguiente figura se observa lo que es un CRM y sus principales conceptos que serán trabajados a detalle en el desarrollo del componente formativo.
 
     .row.justify-content-center
       .col-lg-10.mb-5(data-aos="fade-right")
