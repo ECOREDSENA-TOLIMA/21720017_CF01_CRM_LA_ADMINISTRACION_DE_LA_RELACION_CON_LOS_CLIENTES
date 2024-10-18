@@ -249,7 +249,8 @@ export default {
     {
       referencia:
         'Boulding, W., Staelin, R., Ehret, M., & Johnston, W. J. (2019). A customer relationship management roadmap: What is known, potential pitfalls, and where to go. Journal of Marketing, 83(4), 155-176. ',
-      link: 'https://doi.org/10.1177/0022242919854344',
+      link:
+        'https://www.researchgate.net/publication/228352516_A_Customer_Relationship_Management_Roadmap_What_Is_Known_Potential_Pitfalls_and_Where_to_Go',
     },
     {
       referencia:
@@ -262,7 +263,8 @@ export default {
     {
       referencia:
         'Choudhury, M. M., & Harrigan, P. (2019). CRM to social CRM: The integration of new technologies into customer relationship management. Journal of Strategic Marketing, 27(7), 567-581.',
-      link: 'https://doi.org/10.1080/0965254X.2018.1464490',
+      link:
+        'https://www.researchgate.net/publication/263725475_CRM_to_social_CRM_the_integration_of_new_technologies_into_customer_relationship_management',
     },
     {
       referencia:
@@ -285,7 +287,8 @@ export default {
     {
       referencia:
         'Nguyen, B., & Mutum, D. S. (2018). A review of customer relationship management: Successes, advances, pitfalls and futures. Business Process Management Journal, 24(3), 567-588. ',
-      link: 'https://doi.org/10.1108/BPMJ-01-2017-0011',
+      link:
+        'https://www.researchgate.net/publication/235409521_A_Review_of_Customer_Relationship_Management_Successes_Advances_Pitfalls_and_Futures',
     },
     {
       referencia:
@@ -306,7 +309,8 @@ export default {
     {
       referencia:
         'Stone, M., & Woodcock, N. (2019). Interactive, direct and digital marketing: A future that depends on better use of business intelligence. Journal of Research in Interactive Marketing, 13(4), 482-497.',
-      link: 'https://doi.org/10.1108/JRIM-06-2018-0084',
+      link:
+        'https://www.academia.edu/24808829/Interactive_direct_and_digital_marketing_A_future_that_depends_on_better_use_of_business_intelligence',
     },
   ],
   creditos: [
@@ -314,7 +318,7 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
+          nombre: 'Milady Tatiana Villamil Castellanos',
           cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
@@ -329,9 +333,29 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Nombre_rol',
-          centro: 'Nombre_centro_formación',
+          nombre: 'Lisseth Tatiana Molano Camacho',
+          cargo: 'Experta temática',
+          centro: 'Regional Tolima. Centro de Comercio y Servicios.',
+        },
+        {
+          nombre: 'Jorge Bustos Gómez',
+          cargo: 'Asesor pedagógica',
+          centro: 'Regional Tolima. Centro de Comercio y Servicios.',
+        },
+        {
+          nombre: 'Claudia Marcela Gamboa Durán',
+          cargo: 'Guionistas de la Línea de Producción',
+          centro: 'Regional Tolima. Centro de Comercio y Servicios.',
+        },
+        {
+          nombre: 'Javier Mauricio Oviedo',
+          cargo: 'Guionistas de la Línea de Producción',
+          centro: 'Regional Tolima. Centro de Comercio y Servicios.',
+        },
+        {
+          nombre: 'Luis Fernando Botero Mendoza',
+          cargo: 'Evaluador instruccional',
+          centro: 'Regional Tolima. Centro de Comercio y Servicios.',
         },
       ],
     },
@@ -339,18 +363,28 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre_responsable',
+          nombre: 'Oscar Ivan Uribe Ortiz',
           cargo: 'Diseñador web',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Diego Fernando Velasco Güiza',
-          cargo: 'Desarrollador Fullstack',
+          nombre: 'Lina Marcela Pérez Manchego',
+          cargo: 'Diseñadora web',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Animación y producción audiovisual',
+          nombre: 'Francisco José Vásquez Suárez',
+          cargo: 'Desarrollador full stack',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Animador y productor audiovisual',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Ernesto Navarro Jaimes',
+          cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
@@ -359,18 +393,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Evaluación de contenidos inclusivos y accesibles',
+          nombre: 'Jorge Eduardo Rueda Peña',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Validación de recursos educativos digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
-        },
-        {
-          nombre: 'Nombre_responsable',
-          cargo: 'Validación de recursos educativos digitales',
+          nombre: 'Javier Mauricio Oviedo',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
