@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1242.324" height="405.885" viewBox="0 0 1242.324 405.885">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_377901" data-name="Rectángulo 377901" width="1240" height="405.885" rx="20" transform="translate(-22.675 83.115)" fill="#cac5f9"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.47" y1="0.448" x2="-0.006" y2="0.445" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d0cbfa"/>
+      <stop offset="1" stop-color="#e4e1fd"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_1073373" data-name="Grupo 1073373" transform="translate(1242.324 489) rotate(180)">
+    <path id="Trazado_610212" data-name="Trazado 610212" d="M17.622,405.885H1224.7c9.732,0,17.622-6.548,17.622-14.626V14.626c0-8.078-7.89-14.626-17.622-14.626H17.622C7.889,0,0,6.548,0,14.626V391.259C0,399.337,7.889,405.885,17.622,405.885Z" transform="translate(1242.324 489) rotate(180)" fill="#e4e1fd"/>
+    <g id="Enmascarar_grupo_154360" data-name="Enmascarar grupo 154360" transform="translate(23.838)" clip-path="url(#clip-path)">
+      <path id="Trazado_610360" data-name="Trazado 610360" d="M338.7,800.161S557.345,659.3,544.515,535.74,409.848,324.066,598.34,252.287,1103.376,201.411,992.307,13.9-41.707,69.044-41.707,69.044V654.759Z" transform="translate(-4.062 -80.086)" fill="url(#linear-gradient)"/>
+      <path id="Trazado_610697" data-name="Trazado 610697" d="M218.132,515.485s119.658-28.4,95.678-142.667S205.347,166.135,397.622,97.573,763.68,53.851,716.063-66.382" transform="translate(211.72 55.948)" fill="none" stroke="#f2f2fe" stroke-width="2" stroke-dasharray="15"/>
+      <g id="Grupo_1074307" data-name="Grupo 1074307" transform="translate(0 65.258)">
+        <rect id="Rectángulo_378234" data-name="Rectángulo 378234" width="27.472" height="284.718" rx="13.736" transform="translate(1203.589 100)" fill="#d0cbfa"/>
+        <rect id="Rectángulo_378235" data-name="Rectángulo 378235" width="27.472" height="284.718" rx="13.736" transform="translate(-36.411 100)" fill="#b1ace0"/>
+      </g>
+    </g>
+  </g>
+</svg>
