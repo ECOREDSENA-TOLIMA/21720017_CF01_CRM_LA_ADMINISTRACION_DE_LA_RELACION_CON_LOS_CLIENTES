@@ -207,7 +207,7 @@ export default {
     {
       termino: 'Ciclo de Vida del Producto (CVP)',
       significado:
-        'etapas por las que pasa un producto desde su introducción en el mercado hasta su declive, cada una requiriendo estrategias específicas de marketing, producción y gestión.',
+        'etapas por las que pasa un producto desde su introducción en el mercado hasta su declive, cada una requiriendo estrategias específicas de <em>marketing,</em> producción y gestión.',
     },
     {
       termino: 'Cliente Ideal (<em>Buyer</em> Persona)',
@@ -217,7 +217,7 @@ export default {
     {
       termino: 'Datos demográficos',
       significado:
-        'etapas por las que pasa un producto desde su introducción en el mercado hasta su declive, cada una requiriendo estrategias específicas de marketing, producción y gestión.',
+        'etapas por las que pasa un producto desde su introducción en el mercado hasta su declive, cada una requiriendo estrategias específicas de <em>marketing,</em> producción y gestión.',
     },
     {
       termino: 'Datos psicográficos',
@@ -232,7 +232,7 @@ export default {
     {
       termino: 'Personalización',
       significado:
-        'adaptación de productos, servicios y campañas de marketing para satisfacer las necesidades y preferencias individuales de los clientes, mejorando la experiencia del cliente y aumentando la lealtad.',
+        'adaptación de productos, servicios y campañas de <em>marketing</em> para satisfacer las necesidades y preferencias individuales de los clientes, mejorando la experiencia del cliente y aumentando la lealtad.',
     },
     {
       termino: 'Protección de datos personales',
@@ -242,7 +242,7 @@ export default {
     {
       termino: 'Segmentación de mercados',
       significado:
-        'proceso de dividir un mercado heterogéneo en grupos más pequeños y homogéneos que comparten características similares, permitiendo a las empresas adaptar sus estrategias de marketing y ventas.',
+        'proceso de dividir un mercado heterogéneo en grupos más pequeños y homogéneos que comparten características similares, permitiendo a las empresas adaptar sus estrategias de <em>marketing</em> y ventas.',
     },
   ],
   referencias: [

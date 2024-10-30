@@ -25,13 +25,13 @@
             AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--gris" data-aos="fade-left")
               .row(titulo="Conocimiento del cliente")
                 .col-md-12.mb-4.mb-md-0
-                  p El primer paso en la implementación de un CRM estratégico es comprender profundamente a los clientes. Esto implica recopilar y analizar datos detallados sobre sus comportamientos, preferencias, necesidades y expectativas. La personalización de productos y servicios depende en gran medida de este conocimiento. Por ejemplo, una empresa que comprende que un segmento específico de clientes prefiere la compra en línea durante las noches puede ajustar sus estrategias de marketing digital para maximizar las conversiones en ese período.
+                  p El primer paso en la implementación de un CRM estratégico es comprender profundamente a los clientes. Esto implica recopilar y analizar datos detallados sobre sus comportamientos, preferencias, necesidades y expectativas. La personalización de productos y servicios depende en gran medida de este conocimiento. Por ejemplo, una empresa que comprende que un segmento específico de clientes prefiere la compra en línea durante las noches puede ajustar sus estrategias de #[i marketing] digital para maximizar las conversiones en ese período.
                   p Además, el conocimiento del cliente permite segmentar eficazmente el mercado, identificando cuáles son los clientes más valiosos y cuáles requieren estrategias diferenciadas. Esta segmentación no solo facilita la personalización, sino que también optimiza la asignación de recursos.
 
               .row(titulo="Desarrollo de relaciones")
                 .col-md-12.mb-4.mb-md-0
                   p Una vez que la empresa tiene un conocimiento profundo de sus clientes, el siguiente paso es desarrollar relaciones sólidas y duraderas con ellos. El CRM estratégico se centra en la creación de valor mutuo: la empresa se esfuerza por satisfacer las necesidades del cliente de manera que también maximice su propio valor.
-                  p El desarrollo de relaciones incluye la implementación de estrategias de marketing relacional, como programas de lealtad, servicios personalizados y comunicación constante y relevante. Estas iniciativas están diseñadas para fortalecer el vínculo emocional entre la empresa y el cliente, lo que resulta en una mayor retención y lealtad.
+                  p El desarrollo de relaciones incluye la implementación de estrategias de #[i marketing] relacional, como programas de lealtad, servicios personalizados y comunicación constante y relevante. Estas iniciativas están diseñadas para fortalecer el vínculo emocional entre la empresa y el cliente, lo que resulta en una mayor retención y lealtad.
 
               .row(titulo="Personalización de la experiencia del cliente")
                 .col-md-12.mb-4.mb-md-0
@@ -40,7 +40,7 @@
               
               .row(titulo="Implementación de procesos integrados")
                 .col-md-12.mb-4.mb-md-0
-                  p Para que el CRM funcione como una estrategia de negocios efectiva, es crucial que todos los procesos relacionados con la relación con el cliente estén integrados. Esto significa que las operaciones de marketing, ventas, servicio al cliente, y cualquier otro departamento que interactúe con los clientes deben estar alineados en torno a la misma visión estratégica.
+                  p Para que el CRM funcione como una estrategia de negocios efectiva, es crucial que todos los procesos relacionados con la relación con el cliente estén integrados. Esto significa que las operaciones de #[i marketing,] ventas, servicio al cliente, y cualquier otro departamento que interactúe con los clientes deben estar alineados en torno a la misma visión estratégica.
                   p La integración de procesos asegura que la información del cliente fluya sin problemas entre los diferentes departamentos, permitiendo que cada interacción con el cliente sea coherente y enriquecedora. Esto no solo mejora la eficiencia operativa, sino que también asegura que todas las acciones tomadas por la empresa estén dirigidas hacia el mismo objetivo estratégico: maximizar el valor del cliente.
               
               .row(titulo="Medición y optimización continua")
@@ -59,7 +59,7 @@
     .row.justify-content-center.mb-5
       .col-12.col-md-10.col-lg-10(data-aos="zoom-in")
         p En el contexto colombiano, muchas empresas han adoptado el CRM como una estrategia central para su crecimiento y éxito. Un ejemplo notable es Bancolombia, que ha implementado un enfoque integral de CRM para personalizar sus servicios financieros y mejorar la satisfacción del cliente. Al utilizar un sistema CRM robusto, Bancolombia ha logrado mejorar la retención de clientes y aumentar su participación en el mercado.
-        p Otro ejemplo es Grupo Éxito, que ha utilizado CRM para optimizar sus operaciones de marketing y ventas, personalizando las ofertas a los clientes y mejorando la experiencia de compra tanto en tiendas físicas como en su plataforma de e-commerce. Esto ha permitido a la empresa mantener su liderazgo en el sector minorista en Colombia.
+        p Otro ejemplo es Grupo Éxito, que ha utilizado CRM para optimizar sus operaciones de #[i marketing] y ventas, personalizando las ofertas a los clientes y mejorando la experiencia de compra tanto en tiendas físicas como en su plataforma de #[i e-commerce.] Esto ha permitido a la empresa mantener su liderazgo en el sector minorista en Colombia.
 
 
 

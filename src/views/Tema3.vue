@@ -12,14 +12,14 @@
         figure
           img(src='@/assets/curso/temas/tema3/img-01.png', alt='')
 
-    p.mb-5(data-aos="fade-down-right") El Customer Relationship Management (CRM) se ha diversificado en varias modalidades, cada una diseñada para abordar diferentes aspectos de la gestión de la relación con el cliente. Estos tipos de CRM permiten a las empresas adaptar sus estrategias y operaciones a las necesidades específicas de sus clientes y a los objetivos comerciales que desean alcanzar. Los principales tipos de CRM son: el CRM colaborativo, el CRM operacional y el CRM analítico. A continuación, se presenta una explicación detallada de cada uno, basada en la información del documento proporcionado y en otras fuentes relevantes.
+    p.mb-5(data-aos="fade-down-right") El #[i Customer Relationship Management] (CRM) se ha diversificado en varias modalidades, cada una diseñada para abordar diferentes aspectos de la gestión de la relación con el cliente. Estos tipos de CRM permiten a las empresas adaptar sus estrategias y operaciones a las necesidades específicas de sus clientes y a los objetivos comerciales que desean alcanzar. Los principales tipos de CRM son: el CRM colaborativo, el CRM operacional y el CRM analítico. A continuación, se presenta una explicación detallada de cada uno, basada en la información del documento proporcionado y en otras fuentes relevantes.
 
     Separador
 
     .titulo-segundo.color-acento-contenido
       h2#t_3_1 3.1. CRM colaborativo
 
-    p(data-aos="fade-down-right") El CRM colaborativo se centra en la integración y el intercambio de información entre los diferentes departamentos de una empresa para mejorar la interacción y la comunicación con los clientes. Este tipo de CRM facilita la coordinación entre el marketing, las ventas, el servicio al cliente y otros departamentos relevantes, asegurando que toda la organización tenga acceso a la misma información sobre el cliente y que las interacciones con él sean coherentes y eficaces.
+    p(data-aos="fade-down-right") El CRM colaborativo se centra en la integración y el intercambio de información entre los diferentes departamentos de una empresa para mejorar la interacción y la comunicación con los clientes. Este tipo de CRM facilita la coordinación entre el #[i marketing,] las ventas, el servicio al cliente y otros departamentos relevantes, asegurando que toda la organización tenga acceso a la misma información sobre el cliente y que las interacciones con él sean coherentes y eficaces.
     p.mb-5(data-aos="fade-down-right") Las principales funcionalidades del CRM colaborativo son las siguientes:
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-down-right")
@@ -43,7 +43,7 @@
         figure
           img(src='@/assets/curso/temas/tema3/img-02.svg', alt='Rutinas de limpieza')
 
-    .fondo2-t2.mb-5.px-md-5.px-4
+    .fondo2-t2.mb-4.p-md-5.p-4
       .row.justify-content-center.align-items-center
         .col-lg-4.col-12.mb-3.d-lg-flex.d-none(data-aos="fade-left")
           figure
@@ -57,7 +57,7 @@
     .titulo-segundo.color-acento-contenido
       h2#t_3_2 3.2. CRM operacional
 
-    p(data-aos="fade-left") El CRM operacional se enfoca en la automatización y mejora de los procesos comerciales que implican el contacto directo con los clientes. Este tipo de CRM es el que tradicionalmente se asocia más estrechamente con la gestión de ventas, el marketing y el servicio al cliente, ya que proporciona las herramientas necesarias para manejar eficientemente las operaciones diarias relacionadas con la interacción con el cliente.
+    p(data-aos="fade-left") El CRM operacional se enfoca en la automatización y mejora de los procesos comerciales que implican el contacto directo con los clientes. Este tipo de CRM es el que tradicionalmente se asocia más estrechamente con la gestión de ventas, el #[i marketing] y el servicio al cliente, ya que proporciona las herramientas necesarias para manejar eficientemente las operaciones diarias relacionadas con la interacción con el cliente.
     p.mb-5(data-aos="fade-right") Se pueden considerar como componentes importantes del CRM operacional los siguientes:
 
     SlyderB.slyder-b-img.mb-5.p-5(:datos="datosSlyderEjemplo1")(data-aos="zoom-in-up")
@@ -65,14 +65,14 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10(data-aos="fade-down-right")
         .cajon.color-primario.p-4(style="background-color:#E2DFFC")
-          p.mb-0 El principal beneficio del CRM operacional es la mejora en la eficiencia y efectividad de las interacciones con los clientes. Al automatizar tareas rutinarias y proporcionar herramientas avanzadas para la gestión de ventas, marketing y servicio al cliente, este tipo de CRM permite a las empresas optimizar sus operaciones diarias, reducir costos y mejorar la satisfacción del cliente. Además, al centralizar la información del cliente, el CRM operacional facilita una visión unificada de cada cliente, lo que mejora la capacidad de la empresa para personalizar sus interacciones y construir relaciones más sólidas.
+          p.mb-0 El principal beneficio del CRM operacional es la mejora en la eficiencia y efectividad de las interacciones con los clientes. Al automatizar tareas rutinarias y proporcionar herramientas avanzadas para la gestión de ventas, #[i marketing] y servicio al cliente, este tipo de CRM permite a las empresas optimizar sus operaciones diarias, reducir costos y mejorar la satisfacción del cliente. Además, al centralizar la información del cliente, el CRM operacional facilita una visión unificada de cada cliente, lo que mejora la capacidad de la empresa para personalizar sus interacciones y construir relaciones más sólidas.
 
     Separador
 
     .titulo-segundo.color-acento-contenido
       h2#t_3_3 3.3. CRM analítico
 
-    p(data-aos="fade-left") El CRM analítico se centra en la recopilación, el análisis y el uso de datos sobre los clientes para mejorar la toma de decisiones y optimizar las estrategias comerciales. Este tipo de CRM es crucial para comprender mejor el comportamiento de los clientes, identificar tendencias y patrones, y predecir necesidades futuras, lo que permite a las empresas personalizar sus ofertas y mejorar la eficiencia de sus campañas de marketing.
+    p(data-aos="fade-left") El CRM analítico se centra en la recopilación, el análisis y el uso de datos sobre los clientes para mejorar la toma de decisiones y optimizar las estrategias comerciales. Este tipo de CRM es crucial para comprender mejor el comportamiento de los clientes, identificar tendencias y patrones, y predecir necesidades futuras, lo que permite a las empresas personalizar sus ofertas y mejorar la eficiencia de sus campañas de #[i marketing.]
     p.mb-5(data-aos="fade-right") Enseguida se relacionan las funcionalidades del CRM analítico:
 
     .tarjeta--container.row.mb-5(data-aos="zoom-in")
@@ -86,7 +86,7 @@
               img(src='@/assets/curso/temas/tema3/icono-01.svg', alt='Texto que describa la imagen')
           
         h2.text-center Recopilación y almacenamiento de datos
-        p El CRM analítico recopila datos de todas las interacciones con los clientes, incluyendo compras, consultas, interacciones en redes sociales y más. Estos datos se almacenan en un data warehouse, donde pueden ser organizados y preparados para el análisis. La calidad y cantidad de datos recopilados son fundamentales para la efectividad del CRM analítico.
+        p El CRM analítico recopila datos de todas las interacciones con los clientes, incluyendo compras, consultas, interacciones en redes sociales y más. Estos datos se almacenan en un #[i data warehouse,] donde pueden ser organizados y preparados para el análisis. La calidad y cantidad de datos recopilados son fundamentales para la efectividad del CRM analítico.
 
       //- .tarjeta debe ir acompañado de una de una de estas clases => 
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
@@ -98,7 +98,7 @@
               img(src='@/assets/curso/temas/tema3/icono-02.svg', alt='Texto que describa la imagen')
           
         h2.text-center Análisis de datos y business intelligence (BI)
-        p El análisis de datos es el corazón del CRM analítico. Este proceso incluye la utilización de técnicas de minería de datos, análisis predictivo y herramientas de business intelligence (BI) para extraer información valiosa de los datos recopilados. El CRM analítico permite a las empresas identificar patrones de comportamiento, segmentar clientes según características específicas y predecir tendencias futuras. Esto permite tomar decisiones más informadas y personalizar las estrategias de marketing y ventas.
+        p El análisis de datos es el corazón del CRM analítico. Este proceso incluye la utilización de técnicas de minería de datos, análisis predictivo y herramientas de business intelligence (BI) para extraer información valiosa de los datos recopilados. El CRM analítico permite a las empresas identificar patrones de comportamiento, segmentar clientes según características específicas y predecir tendencias futuras. Esto permite tomar decisiones más informadas y personalizar las estrategias de #[i marketing] y ventas.
 
       //- .tarjeta debe ir acompañado de una de una de estas clases => 
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
@@ -110,12 +110,12 @@
               img(src='@/assets/curso/temas/tema3/icono-03.svg', alt='Texto que describa la imagen')
           
         h2.text-center Medición y evaluación del rendimiento
-        p El CRM analítico también facilita la medición y evaluación del rendimiento de las campañas de marketing, la efectividad de las estrategias de ventas y el nivel de satisfacción del cliente. Las empresas pueden utilizar estos insights para ajustar sus estrategias y mejorar continuamente sus procesos. Por ejemplo, el análisis de la satisfacción del cliente puede ayudar a identificar áreas de mejora en el servicio al cliente, lo que a su vez puede aumentar la lealtad y retención de clientes.
+        p El CRM analítico también facilita la medición y evaluación del rendimiento de las campañas de #[i marketing,] la efectividad de las estrategias de ventas y el nivel de satisfacción del cliente. Las empresas pueden utilizar estos #[i insights] para ajustar sus estrategias y mejorar continuamente sus procesos. Por ejemplo, el análisis de la satisfacción del cliente puede ayudar a identificar áreas de mejora en el servicio al cliente, lo que a su vez puede aumentar la lealtad y retención de clientes.
 
     .row.fondo3-t3.justify-content-center.align-items-center.py-3.px-lg-5.px-4(data-aos="zoom-in") 
       .row.justify-content-center.align-items-center
         p.mb-5(data-aos="fade-right") El CRM analítico ofrece a las empresas una ventaja competitiva al proporcionar una comprensión profunda del comportamiento del cliente y la capacidad de anticiparse a sus necesidades. Al utilizar datos para informar la toma de decisiones, las empresas pueden personalizar sus interacciones con los clientes, mejorar la eficacia de sus campañas de marketing y aumentar la satisfacción y lealtad del cliente. Además, el CRM analítico permite a las empresas identificar oportunidades de crecimiento y optimización, lo que puede conducir a una mayor rentabilidad y éxito a largo plazo.
-        .col-lg-5.col-12.mb-3.d-lg-flex.d-none(data-aos="fade-left")
+        .col-lg-5.col-12.mb-3(data-aos="fade-left")
           figure
             img(src='@/assets/curso/temas/tema3/img-07.svg', alt='Imagen decorativa')
 
@@ -160,7 +160,7 @@
     h3.mb-5
       span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[i.fas.fa-handshake] b. CRM operacional. Ejemplo en retailer de moda
 
-    p.mb-5(data-aos="fade-right") Una cadena de tiendas de moda como las que venden ropa en los centros comerciales o en canales digitales pueden implementar un CRM operacional para optimizar sus operaciones de ventas y marketing. Supongamos que la empresa de ropa lanza una nueva colección y desea impulsar las ventas a través de su plataforma de e-commerce y tiendas físicas.
+    p.mb-5(data-aos="fade-right") Una cadena de tiendas de moda como las que venden ropa en los centros comerciales o en canales digitales pueden implementar un CRM operacional para optimizar sus operaciones de ventas y #[i marketing.] Supongamos que la empresa de ropa lanza una nueva colección y desea impulsar las ventas a través de su plataforma de e-commerce y tiendas físicas.
 
     .tarjeta.tarjeta--azul.mb-5(data-aos="fade-left")
       .p-4.p-lg-5
@@ -175,7 +175,7 @@
           .row
             .col-lg-7.mb-4.mb-lg-0
               p #[b Automatización del #[i marketing]]
-              p.mb-0 A través de la segmentación automática, la empresa puede enviar promociones especiales a clientes que han mostrado interés en ciertos productos o que han comprado colecciones anteriores. Además, puede realizar un seguimiento del rendimiento de estas campañas en tiempo real y ajustar las estrategias de marketing según los resultados obtenidos.
+              p.mb-0 A través de la segmentación automática, la empresa puede enviar promociones especiales a clientes que han mostrado interés en ciertos productos o que han comprado colecciones anteriores. Además, puede realizar un seguimiento del rendimiento de estas campañas en tiempo real y ajustar las estrategias de #[i marketing] según los resultados obtenidos.
             .col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema3/img-09.png', style="width: 450px" ,alt='').m-auto
@@ -223,7 +223,7 @@
     
     .row.justify-content-center.mb-5
       .col-12.col-md-10.col-lg-10(data-aos="zoom-in")
-        p.mb-4 Este uso del CRM analítico no solo mejora la satisfacción del cliente al proporcionar servicios y productos más relevantes, sino que también incrementa la eficiencia y efectividad de las estrategias de ventas y marketing del banco.
+        p.mb-4 Este uso del CRM analítico no solo mejora la satisfacción del cliente al proporcionar servicios y productos más relevantes, sino que también incrementa la eficiencia y efectividad de las estrategias de ventas y #[i marketing] del banco.
 
 
 
@@ -243,15 +243,15 @@ export default {
         imagen: require('@/assets/curso/temas/tema3/img-04.png'),
       },
       {
-        titulo: 'Automatización del marketing',
+        titulo: 'Automatización del <em>marketing</em>',
         texto:
-          'La automatización del marketing es otra característica esencial del CRM operacional. Este componente permite a las empresas gestionar campañas de marketing de manera más eficiente, personalizar las comunicaciones con los clientes y medir el rendimiento de las campañas en tiempo real. La automatización del marketing incluye herramientas como el email marketing, la segmentación de clientes y el análisis de campañas, lo que facilita la entrega de mensajes personalizados en el momento adecuado.',
+          'La automatización del <em>marketing</em> es otra característica esencial del CRM operacional. Este componente permite a las empresas gestionar campañas de <em>marketing</em> de manera más eficiente, personalizar las comunicaciones con los clientes y medir el rendimiento de las campañas en tiempo real. La automatización del <em>marketing</em> incluye herramientas como el email <em>marketing,</em> la segmentación de clientes y el análisis de campañas, lo que facilita la entrega de mensajes personalizados en el momento adecuado.',
         imagen: require('@/assets/curso/temas/tema3/img-05.png'),
       },
       {
         titulo: 'Automatización del servicio al cliente',
         texto:
-          'El CRM operacional también incluye herramientas para la automatización del servicio al cliente, como los centros de llamadas (call centers) y las plataformas de autoservicio. Estas herramientas permiten a las empresas gestionar de manera más eficiente las consultas y problemas de los clientes, proporcionando respuestas rápidas y personalizadas. Además, la automatización del servicio al cliente puede incluir sistemas de gestión de tickets, que ayudan a rastrear y resolver problemas de manera efectiva.',
+          'El CRM operacional también incluye herramientas para la automatización del servicio al cliente, como los centros de llamadas <em>(call centers)</em> y las plataformas de autoservicio. Estas herramientas permiten a las empresas gestionar de manera más eficiente las consultas y problemas de los clientes, proporcionando respuestas rápidas y personalizadas. Además, la automatización del servicio al cliente puede incluir sistemas de gestión de <em>tickets,</em> que ayudan a rastrear y resolver problemas de manera efectiva.',
         imagen: require('@/assets/curso/temas/tema3/img-06.png'),
       },
     ],

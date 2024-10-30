@@ -19,48 +19,48 @@
     .titulo-segundo.color-acento-contenido
       h2#t_5_1 5.1. Fase 1: adquisición de nuevos clientes
 
-    .row.fondo3-t3.justify-content-center.align-items-center.py-3.px-lg-5.px-4 
-      .row.justify-content-center.align-items-center.mb-5
-        p(data-aos="fade-right") La primera fase del CRM se centra en la adquisición de nuevos clientes. Esta fase es fundamental, ya que una base sólida de nuevos clientes es crucial para el crecimiento y la expansión de cualquier negocio. El objetivo principal es identificar, atraer y convertir prospectos en clientes.
-        p.mb-5(data-aos="fade-right") Los siguientes son los pasos en la fase de adquisición:
+    .row.fondo3-t3.justify-content-center.align-items-center.py-3.px-lg-5.px-4
+      p(data-aos="fade-right") La primera fase del CRM se centra en la adquisición de nuevos clientes. Esta fase es fundamental, ya que una base sólida de nuevos clientes es crucial para el crecimiento y la expansión de cualquier negocio. El objetivo principal es identificar, atraer y convertir prospectos en clientes.
+      p.mb-5(data-aos="fade-right") Los siguientes son los pasos en la fase de adquisición: 
+      .row.justify-content-center.mb-5
         .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="zoom-in")
           //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
           //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
           //- estas clases tambien tienen un modificador --borde
-          .tarjeta-avatar.tarjeta--boton.color-secundario.p-4
+          .tarjeta-avatar.tarjeta--boton.color-secundario.p-4.h-100
             .row.justify-content-center.mb-3
               .col-4
                 figure
                   img(src='@/assets/curso/temas/tema5/icono-01.svg', alt='Texto que describa la imagen')
 
             h4.text-center Identificación de prospectos
-            p En esta etapa, la empresa identifica a posibles clientes mediante la investigación de mercado, análisis de datos y campañas de marketing dirigidas. Las empresas utilizan diversas herramientas, como publicidad en redes sociales, marketing de contenidos y campañas de correo electrónico, para atraer la atención de potenciales clientes (Nguyen & Mutum, 2018).
+            p En esta etapa, la empresa identifica a posibles clientes mediante la investigación de mercado, análisis de datos y campañas de marketing dirigidas. Las empresas utilizan diversas herramientas, como publicidad en redes sociales, #[i marketing] de contenidos y campañas de correo electrónico, para atraer la atención de potenciales clientes (Nguyen & Mutum, 2018).
 
         .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="zoom-in")
           //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
           //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
           //- estas clases tambien tienen un modificador --borde
-          .tarjeta-avatar.tarjeta--boton.color-secundario.p-4
+          .tarjeta-avatar.tarjeta--boton.color-secundario.p-4.h-100
             .row.justify-content-center.mb-3
               .col-4
                 figure
                   img(src='@/assets/curso/temas/tema5/icono-02.svg', alt='Texto que describa la imagen')
 
             h4.text-center Atracción de prospectos
-            p Una vez identificados los prospectos, la empresa debe captar su interés. Esto se logra a través de estrategias de inbound marketing, donde se ofrece contenido relevante y valioso que responda a las necesidades o problemas del prospecto. Este enfoque crea un vínculo inicial y establece la empresa como una autoridad en el campo.
+            p Una vez identificados los prospectos, la empresa debe captar su interés. Esto se logra a través de estrategias de inbound #[i marketing,] donde se ofrece contenido relevante y valioso que responda a las necesidades o problemas del prospecto. Este enfoque crea un vínculo inicial y establece la empresa como una autoridad en el campo.
 
         .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="zoom-in")
           //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
           //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
           //- estas clases tambien tienen un modificador --borde
-          .tarjeta-avatar.tarjeta--boton.color-secundario.p-4
+          .tarjeta-avatar.tarjeta--boton.color-secundario.p-4.h-100
             .row.justify-content-center.mb-3
               .col-4
                 figure
                   img(src='@/assets/curso/temas/tema5/icono-03.svg', alt='Texto que describa la imagen')
 
             h4.text-center Conversión de prospectos en clientes
-            p El objetivo final de esta fase es convertir a los prospectos en clientes. Esto se logra mediante tácticas de marketing directo, ofertas personalizadas y un proceso de ventas eficaz que conduzca al cierre de la venta. En esta etapa, la experiencia del cliente debe ser fluida y positiva para asegurar una transición exitosa de prospecto a cliente.
+            p El objetivo final de esta fase es convertir a los prospectos en clientes. Esto se logra mediante tácticas de #[i marketing] directo, ofertas personalizadas y un proceso de ventas eficaz que conduzca al cierre de la venta. En esta etapa, la experiencia del cliente debe ser fluida y positiva para asegurar una transición exitosa de prospecto a cliente.
 
       p.mb-0(data-aos="fade-right") El éxito en esta fase depende de la capacidad de la empresa para segmentar correctamente el mercado, atraer la atención de los prospectos adecuados y proporcionarles una experiencia inicial que cumpla o supere sus expectativas.
 
@@ -78,13 +78,13 @@
           img(src='@/assets/curso/temas/tema5/img-02.svg', alt='Imagen decorativa')
       .col-lg-8.col-12.mb-3
         LineaTiempoD.color-secundario.linea-tiempo-edit.mb-4(data-aos="zoom-in-down")
-          p.text-small(numero="1" titulo="Cross-selling (venta cruzada)") Esta estrategia implica ofrecer productos o servicios complementarios a los que el cliente ya ha comprado o está considerando comprar. Por ejemplo, en una tienda de tecnología, un cliente que compra un teléfono móvil puede recibir ofertas de accesorios como auriculares, protectores de pantalla o cargadores adicionales (Buttle & Maklan, 2019).
+          p.text-small(numero="1" titulo="<em>Cross-selling</em> (venta cruzada)") Esta estrategia implica ofrecer productos o servicios complementarios a los que el cliente ya ha comprado o está considerando comprar. Por ejemplo, en una tienda de tecnología, un cliente que compra un teléfono móvil puede recibir ofertas de accesorios como auriculares, protectores de pantalla o cargadores adicionales (Buttle & Maklan, 2019).
 
-          p.text-small(numero="2" titulo="Up-selling (venta incremental)") Up-selling se refiere a persuadir al cliente para que adquiera una versión más avanzada o premium de un producto o servicio que está considerando. Por ejemplo, si un cliente está interesado en un plan de seguro básico, la empresa puede ofrecerle un plan más completo que incluya beneficios adicionales, argumentando que proporcionará un mejor valor a largo plazo.
+          p.text-small(numero="2" titulo="<em>Up-selling</em> (venta incremental)") Up-selling se refiere a persuadir al cliente para que adquiera una versión más avanzada o premium de un producto o servicio que está considerando. Por ejemplo, si un cliente está interesado en un plan de seguro básico, la empresa puede ofrecerle un plan más completo que incluya beneficios adicionales, argumentando que proporcionará un mejor valor a largo plazo.
           
           p.text-small(numero="3" titulo="Programas de lealtad y fidelización") Los programas de lealtad son esenciales en esta fase, ya que recompensan a los clientes por sus compras recurrentes, incentivando así un mayor gasto y frecuencia de compra. Estos programas pueden incluir puntos de recompensa, descuentos exclusivos o promociones especiales para miembros.
 
-    p.mb-5 El éxito en esta fase depende de la capacidad de la empresa para comprender las necesidades y preferencias de sus clientes actuales y para ofrecerles productos o servicios que realmente agreguen valor a sus vidas.
+    p.mb-5(data-aos="fade-right") El éxito en esta fase depende de la capacidad de la empresa para comprender las necesidades y preferencias de sus clientes actuales y para ofrecerles productos o servicios que realmente agreguen valor a sus vidas.
 
     Separador
     
@@ -94,38 +94,34 @@
     p(data-aos="fade-left") La fase final del CRM, pero no menos importante, es la fidelización del cliente. Esta fase se enfoca en mantener a los clientes a largo plazo, asegurando que sigan eligiendo a la empresa para satisfacer sus necesidades en lugar de recurrir a la competencia.
     p.mb-5(data-aos="fade-right") Elementos clave en la fase de fidelización:
 
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-right")
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="zoom-in-down")
       .row(titulo="Satisfacción continuada del cliente")
-        .col-md-6.mb-4.mb-md-0
+        .col-lg-6.order-lg-1.order-2
           p Mantener la satisfacción del cliente es esencial para su fidelización. Esto implica no solo cumplir con las expectativas del cliente, sino superarlas consistentemente. La calidad del producto o servicio, la atención al cliente y la resolución efectiva de problemas son fundamentales en este aspecto (Payne & Frow, 2021).
 
-        .col-md-6
-          figure
-            img(src='@/assets/curso/temas/tema5/img-03.png', alt='Texto que describa la imagen')
+        .col-lg-6.col-12.order-lg-2.order-lg-1.mb-lg-0.mb-4
+          img(src='@/assets/curso/temas/tema5/img-03.png', alt='Texto que describa la imagen')
 
       .row(titulo="Comunicación constante y relevante")
-        .col-md-6.mb-4.mb-md-0
+        .col-lg-6.order-lg-1.order-2
           p La empresa debe mantener una comunicación continua con el cliente, proporcionándole información relevante y personalizada. Esto puede incluir notificaciones sobre nuevas ofertas, actualizaciones de productos o servicios, y mensajes personalizados en fechas importantes como cumpleaños o aniversarios de compra.
 
-        .col-md-6
-          figure
-            img(src='@/assets/curso/temas/tema5/img-04.png', alt='Texto que describa la imagen')
+        .col-lg-6.col-12.order-lg-2.order-lg-1.mb-lg-0.mb-4
+          img(src='@/assets/curso/temas/tema5/img-04.png', alt='Texto que describa la imagen')
 
       .row(titulo="Servicio postventa y soporte técnico")
-        .col-md-6.mb-4.mb-md-0
+        .col-lg-6.order-lg-1.order-2
           p Un servicio postventa eficiente es crucial para la fidelización. Proporcionar soporte técnico rápido y efectivo, garantías extendidas, y seguimiento proactivo después de la venta, son prácticas que fortalecen la relación con el cliente y aumentan su lealtad hacia la marca.
 
-        .col-md-6
-          figure
-            img(src='@/assets/curso/temas/tema5/img-05.png', alt='Texto que describa la imagen')
+        .col-lg-6.col-12.order-lg-2.order-lg-1.mb-lg-0.mb-4
+          img(src='@/assets/curso/temas/tema5/img-05.png', alt='Texto que describa la imagen')
 
       .row(titulo="Creación de comunidad y pertenencia")
-        .col-md-6.mb-4.mb-md-0
+        .col-lg-6.order-lg-1.order-2
           p Algunas empresas van un paso más allá al crear comunidades alrededor de su marca, donde los clientes pueden interactuar entre sí y compartir experiencias. Esta sensación de pertenencia a una comunidad puede ser un factor poderoso en la fidelización del cliente. Un ejemplo de esto en Colombia podría ser la estrategia de Postobón, que ha creado comunidades en torno a sus marcas de bebidas, incentivando la participación activa de los clientes.
 
-        .col-md-6
-          figure
-            img(src='@/assets/curso/temas/tema5/img-06.png', alt='Texto que describa la imagen')
+        .col-lg-6.col-12.order-lg-2.order-lg-1.mb-lg-0.mb-4
+          img(src='@/assets/curso/temas/tema5/img-06.png', alt='Texto que describa la imagen')
 
     p.mb-5(data-aos="fade-right") El éxito en esta fase depende de la capacidad de la empresa para mantener y profundizar la relación con el cliente a lo largo del tiempo, generando confianza y valor continuo.
 
@@ -162,7 +158,7 @@ export default {
         imagen: require('@/assets/curso/temas/tema5/img-07.png'),
       },
       {
-        titulo: 'Feedback y mejora continua',
+        titulo: '<em>Feedback</em> y mejora continua',
         texto:
           'Cada fase debe incluir mecanismos de retroalimentación que permitan a la empresa ajustar y mejorar continuamente su estrategia de CRM. Esto asegura que la empresa pueda adaptarse a las necesidades cambiantes de los clientes y al entorno competitivo.',
         imagen: require('@/assets/curso/temas/tema5/img-08.png'),

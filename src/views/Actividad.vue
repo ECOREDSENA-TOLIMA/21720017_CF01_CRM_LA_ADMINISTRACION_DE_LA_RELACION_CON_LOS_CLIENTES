@@ -47,9 +47,9 @@ export default {
             { id: 'b', texto: 'Verdadero', esCorrecta: true },
           ],
           mensaje_correcto:
-            'Correcto. El CRM operacional se enfoca en la automatización de procesos relacionados con ventas, marketing y servicio al cliente para mejorar la eficiencia y efectividad de las interacciones con los clientes.',
+            'Correcto. El CRM operacional se enfoca en la automatización de procesos relacionados con ventas, <em>marketing</em> y servicio al cliente para mejorar la eficiencia y efectividad de las interacciones con los clientes.',
           mensaje_incorrecto:
-            'Incorrecto. El CRM operacional tiene como objetivo automatizar y optimizar tareas de ventas, marketing y servicio al cliente para mejorar las operaciones diarias.',
+            'Incorrecto. El CRM operacional tiene como objetivo automatizar y optimizar tareas de ventas, <em>marketing</em> y servicio al cliente para mejorar las operaciones diarias.',
         },
         {
           id: 3,
@@ -107,9 +107,9 @@ export default {
             { id: 'b', texto: 'Verdadero', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Correcto. La venta cruzada se refiere a ofrecer productos complementarios, no necesariamente más caros. La venta incremental (up-selling) es la que se enfoca en ofrecer productos de mayor gama o precio.',
+            'Correcto. La venta cruzada se refiere a ofrecer productos complementarios, no necesariamente más caros. La venta incremental <em>(up-selling)</em> es la que se enfoca en ofrecer productos de mayor gama o precio.',
           mensaje_incorrecto:
-            'Incorrecto. La venta cruzada implica ofrecer productos complementarios, mientras que la venta incremental (up-selling) es la que busca ofrecer productos más caros o de mayor gama.',
+            'Incorrecto. La venta cruzada implica ofrecer productos complementarios, mientras que la venta incremental <em>(up-selling)</em> es la que busca ofrecer productos más caros o de mayor gama.',
         },
       ],
       mensaje_final_aprobado:
