@@ -34,7 +34,7 @@
                   img(src='@/assets/curso/temas/tema5/icono-01.svg', alt='Texto que describa la imagen')
 
             h4.text-center Identificación de prospectos
-            p En esta etapa, la empresa identifica a posibles clientes mediante la investigación de mercado, análisis de datos y campañas de marketing dirigidas. Las empresas utilizan diversas herramientas, como publicidad en redes sociales, #[i marketing] de contenidos y campañas de correo electrónico, para atraer la atención de potenciales clientes (Nguyen & Mutum, 2018).
+            p En esta etapa, la empresa identifica a posibles clientes mediante la investigación de mercado, análisis de datos y campañas de <em>marketing</em> dirigidas. Las empresas utilizan diversas herramientas, como publicidad en redes sociales, #[i marketing] de contenidos y campañas de correo electrónico, para atraer la atención de potenciales clientes (Nguyen & Mutum, 2018).
 
         .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="zoom-in")
           //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 

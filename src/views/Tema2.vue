@@ -44,7 +44,7 @@
     p.mb-5(data-aos="fade-left") La década de 1980 marca el inicio de las prácticas que posteriormente se consolidarían como CRM. Durante este período, las empresas comenzaron a reconocer la importancia de gestionar y analizar la información de sus clientes para mejorar las ventas y el servicio.
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-down-right")
-      .row(titulo="Emergencia de los call centers y contact centers")
+      .row(titulo="Emergencia de los <em>call centers y contact centers</em>")
         .col-lg-6.order-lg-1.order-2
           p La década de 1990 vio la proliferación de #[i call centers y contact centers] como canales esenciales para la interacción con los clientes. Estas plataformas permitieron a las empresas manejar grandes volúmenes de consultas y soporte de manera más eficiente, mejorando la experiencia del cliente y consolidando relaciones más sólidas (Stone & Woodcock, 2019). 
 
