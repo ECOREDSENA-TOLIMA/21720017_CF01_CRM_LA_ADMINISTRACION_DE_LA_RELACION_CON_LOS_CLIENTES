@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1328" height="552" viewBox="0 0 1328 552">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_378244" data-name="Rectángulo 378244" width="1328" height="552" transform="translate(-24757 -8673)" fill="#e2dffc"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.47" y1="0.448" x2="-0.006" y2="0.445" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d0cbfa"/>
+      <stop offset="1" stop-color="#e4e1fd"/>
+    </linearGradient>
+  </defs>
+  <g id="Enmascarar_grupo_154378" data-name="Enmascarar grupo 154378" transform="translate(24757 8673)" clip-path="url(#clip-path)">
+    <g id="Rectángulo_378241" data-name="Rectángulo 378241" transform="translate(-24813 -8711)" fill="#e4e1fd" stroke="#707070" stroke-width="1">
+      <rect width="1396" height="673" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1395" height="672" fill="none"/>
+    </g>
+    <g id="Grupo_1073380" data-name="Grupo 1073380">
+      <path id="Trazado_610714" data-name="Trazado 610714" d="M365.242,912.1S599.136,752.84,585.412,613.152,441.35,373.843,642.991,292.694s540.268-57.519,421.451-269.514S-41.707,85.527-41.707,85.527V747.71Z" transform="translate(-23446.416 -7978.354) rotate(180)" fill="url(#linear-gradient)"/>
+      <path id="Trazado_610715" data-name="Trazado 610715" d="M218.132,591.451s128.006-32.1,102.352-161.292-116.03-233.667,89.658-311.181,391.6-49.43,340.657-185.36" transform="translate(-23695.379 -8130.951) rotate(180)" fill="none" stroke="#f2f2fe" stroke-width="2" stroke-dasharray="15"/>
+      <rect id="Rectángulo_378242" data-name="Rectángulo 378242" width="29.388" height="375.154" rx="14.694" transform="translate(-24741.227 -8205.909) rotate(180)" fill="#d0cbfa"/>
+      <rect id="Rectángulo_378243" data-name="Rectángulo 378243" width="29.388" height="375.154" rx="14.694" transform="translate(-23414.719 -8205.909) rotate(180)" fill="#b1ace0"/>
+    </g>
+  </g>
+</svg>
